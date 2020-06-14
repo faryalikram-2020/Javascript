@@ -614,7 +614,7 @@ else
 
 
 
-//TasK !0:
+//TasK 10:
 /*var T = prompt("Enter the temperature");
 if(T>40){
 	alert(" \"It is too hot outside.\" ");
@@ -659,6 +659,92 @@ else if(c === "/"){
 else{
 	document.write(a%b);
 }*/
+
+
+
+
+
+
+
+
+//cHAPTER #6-9;
+
+
+
+//Task#1:
+
+/*var a  =10;
+
+document.write("Result <br>");
+document.write("The value of a is : " +a+ "<br>");
+document.write("----------------------------------<br> <br>");
+
+
+document.write("The value of ++a is : " ,++a, "<br>");
+document.write("Now the value of ++a is : ", a ,"<br>");
+
+
+document.write("<br>");
+
+
+document.write("The value of ++a is : " ,a++, "<br>");
+document.write("Now the value of ++a is : ", a ,"<br>");
+
+
+document.write("<br>");
+
+
+document.write("The value of ++a is : " ,--a, "<br>");
+document.write("Now the value of ++a is : ", a ,"<br>");
+
+
+document.write("<br>");
+
+
+document.write("The value of ++a is : " ,a--, "<br>");
+document.write("Now the value of ++a is : ", a ,"<br>");*/
+
+
+
+
+//Task#2
+
+
+/*var a = 2, b = 1;
+document.write("a is : "+a+ "<br>");
+document.write("b is : "+b+ "<br>");
+var c = --a - --b + ++b + b--;
+document.write("result is "+c+ "<br>");*/
+
+
+
+
+//Task#3;
+
+/*
+var a = prompt("Enter your wish");*/
+
+
+//Task#4,5;
+
+/*var t = prompt("Enter a number");
+var i;
+if (t==""){
+	  for(i=1; i<=10; i++){
+	document.write(+5+ "x" + i + "=" + (i*5) + "<br>");
+}}
+else{
+
+     for(i=1; i<=10; i++){
+	
+	document.write(+t+ "x" + i + "=" + (i*t) + "<br>");
+ }}*/
+
+
+
+ 
+
+
 
 
 
